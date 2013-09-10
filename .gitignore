@@ -13,3 +13,4 @@
 *.o
 *.sym
 .DS_Store
+*.s#*

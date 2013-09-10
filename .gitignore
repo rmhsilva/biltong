@@ -12,3 +12,4 @@
 *.map
 *.o
 *.sym
+.DS_Store

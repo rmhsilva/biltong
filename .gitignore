@@ -1,0 +1,14 @@
+## AVR build gitignore
+
+# Dependencies directory
+.dep
+
+# Build generated files
+*.eep
+*.elf
+*.hex
+*.lss
+*.lst
+*.map
+*.o
+*.sym
